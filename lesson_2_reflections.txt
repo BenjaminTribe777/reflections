@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+A:  Git creates a .git repository folder to keep version tracking information in.  Without this there will be no version control.
+
