@@ -4,5 +4,7 @@ A:  Git creates a .git repository folder to keep version tracking information in
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: staging area is where you make your changes?  then when you are done you commit. git manages this behind the scenes
 
+change1
+
  
 
