@@ -7,5 +7,9 @@ A: staging area is where you make your changes?  then when you are done you comm
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A: anywhere that a logical split would happen such as an easy mode for a game or a different language or an experimental portion of the code.  this way you can focus on only one branch at a time without messing up everything else.
 
+How do the diagrams help you visualize the branch structure?
+A:  helps you understand the parents and detached head state and where merges may need to take place.
+
+
  
 
