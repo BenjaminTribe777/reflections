@@ -2,5 +2,9 @@ When would you want to use a remote repository rather than keeping all your work
 A: When collaborating with multiple people or working on multiple computers
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-Git doesn't know which file you want to keep.
+A: Git doesn't know which file you want to keep.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+A: for working offline or to inspect code before merging
+
 
