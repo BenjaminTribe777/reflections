@@ -8,7 +8,10 @@ What is the benefit of having a copy of the last known state of the remote store
 A: for working offline or to inspect code before merging
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-Using a repository using version control numbers on the files.  There are aspects of this way that would be easier.
+A: Using a repository using version control numbers on the files.  There are aspects of this way that would be easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: When multiple people are working on a similar update. Then the branches can be merged and tested prior to committing changes to the master branch
 
 
 
